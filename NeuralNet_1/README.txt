@@ -1,3 +1,5 @@
+# Make up of the setup file
+
 ////////// Structure of setup.txt file ///////////////////////////////////////
 
 *Number of input nodes* (>= 1)
